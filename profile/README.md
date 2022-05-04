@@ -2,7 +2,7 @@
  
 Scripty ❤️ Open Source
 
-![Scripty OSS](../assets/banner/ScriptyOSS.png)
+![Scripty OSS](https://github.com/scriptydev/.github/blob/15aa52d36fd095a331f01fd43db024d6f330e905/assets/banner/ScriptyOSS.png)
 
 <!--
 
