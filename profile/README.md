@@ -1,6 +1,8 @@
 # Scripty
+ 
+Scripty ❤️ Open Source
 
-The official GitHub Organization for the Scripty Discord bot.
+![Scripty OSS](../assets/banner/ScriptyOSS.png)
 
 <!--
 
